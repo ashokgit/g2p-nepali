@@ -16,7 +16,7 @@ print(phonemes)
 This will output:
 
 ```
-nəməste
+namastē
 ```
 
 Note that this library is not perfect and may not accurately represent the pronunciation of all Nepali words.
