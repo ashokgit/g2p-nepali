@@ -4,9 +4,9 @@ setup(
     name='nepali_g2p',
     version='0.1.0',
     description='A simple Nepali G2P conversion library',
-    author='Your Name',
-    author_email='youremail@example.com',
-    url='https://github.com/yourusername/nepali_g2p',
+    author='Ashok Poudel',
+    author_email='ashok.poudel@gmail.com',
+    url='https://github.com/ashokgit/g2p-nepali',
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
